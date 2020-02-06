@@ -6,8 +6,10 @@ Open GIT URL and download the solution 1 and 2
 # For Solution 1:
 Import  Soution 1 in Eclipse IDE .
 Run file DifferenceSheetProblem.java.
+
+
 # For Solution 2 with all dependent files and Package jason:
-This file includes all dependencies and package files inclduing package.jason.
+This folder include all dependenct files and package files including package.jason.
 To run this please download and unzip.
 	# Steps to execute:
 	1. Install nodejs from https://nodejs.org/en/download/.
@@ -31,6 +33,7 @@ To run this please download and unzip.
 	8. Run Terminal as :
 		Syntax: protractor {RelativeFolder}\Amazon_Shopping_Framework\Solution_2\cucumberConf.js
 		Example: "protractor D:\Anupam\JavaScript\upload\Amazon_Shopping_Framework\Solution_2\cucumberConf.js"
+
 
 # For Solution 2: this only have the project files 
 Please follow below steps to execute this code:
